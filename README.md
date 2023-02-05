@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Eldaly</h1>
 <h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awslabs&label=Profile%20views&color=0e75b6&style=flat" alt="awslabs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedeldaly097&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedeldaly097" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedeldaly097" alt="ahmedeldaly097" /></a> </p>
 
