@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ahmed Eldaly</h1>
-<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
+<h1 align="center"><b>Hi , I'm Ahmed Eldaly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&background=FF000000&width=600&lines=An+ambitious+Cloud+and+DevOps+Engineer+who's;passionate+about+DevOps+and+Cloud+Computing%2C+;and+I+have+a+passion+to+read+about+new+things;in+the+software+industry+;and+sharing+the+knowledge+with+others%2C;+obsessed+with+finding+new+challenges.+;A+and+I+have+business+background+and+managerial+skills" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedeldaly097&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedeldaly097" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedeldaly097" alt="ahmedeldaly097" /></a> </p>
 
-- 🔭 I’m currently working on [Udacity-Last-Project](https://github.com/ahmedeldaly097/cdond-c3-projectstarter)
+- 🔭 I’m currently working on [Kubernetes-Cluster-Project](https://github.com/ahmedeldaly097/kubernetes-learn)
 
 - 🌱 I’m currently learning **Circle CI, Prometheus and working on Udacity's FWD Advanced Cloud DevOps track.**
 
